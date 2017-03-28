@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-
+    <div id="details">
+      <h1>Tic Tac Toe</h1>
+    </div>
+    <grid></grid>
   </div>
 </template>
 
